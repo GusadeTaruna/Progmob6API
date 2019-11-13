@@ -48,7 +48,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST', 'us-cdbr-gcp-east-01.cleardb.net'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE', 'us-cdbr-gcp-east-01.cleardb.net'),
+            'database' => env('DB_DATABASE', 'gcp_355c5525b501b4400265'),
             'username' => env('DB_USERNAME', 'b457636242ba18'),
             'password' => env('DB_PASSWORD', '1d9c4e39'),
             'unix_socket' => env('DB_SOCKET', ''),
